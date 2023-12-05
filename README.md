@@ -1,6 +1,9 @@
 # signify-browser-extension (to be renamed)
 Initial outline to be discussed this week
 
+## Support
+Funding for the initial work was provided by [Provenant](https://provenant.net/) in their [PB311.1 bounty](https://docs.google.com/document/d/1mq82RDRGfoOMCs8sR8Cuj_hMC5i1_aP7e6DVqp8o13g/edit?usp=sharing)
+
 ## Goals
 * Be the only place to share secrets (passcode)
 * Secure and simple codebase that can be audited to validate that the secret never leaves the extension and cannot be accessed by malicious web sites
