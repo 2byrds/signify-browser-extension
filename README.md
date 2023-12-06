@@ -36,7 +36,7 @@ More info and diagram coming soon
   * signify-ts
     * leverages KERIA agent
   * UI/UX popup
-  * manifest
+  * manifest (v3)
 * Web Pages
   * Page DOM
   * Injected content script (isolated execution env)
@@ -44,6 +44,9 @@ More info and diagram coming soon
  
 ## Features
 * Connect to KERIA
+ * configuration URL
 * AuthenticateX (based on AID+VC)
   * List AIDs
   * List Credentials
+  * Persistence of web associations
+  * Management UI override (tbd)
